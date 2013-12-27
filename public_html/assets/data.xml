@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<items >
+
+<item name="Item text1">
+	<description><![CDATA[<i>С Новым Годом<br/>и Рождеством!</i>]]></description>
+</item>
+<item name="Item text2">
+	<description><![CDATA[<i>Мы надеемся, что эти праздники<br />будут для Вас незабываемыми!</i>]]></description>
+</item>
+<item name="Item text3">
+	<description><![CDATA[<i><font size="24">Холдинг  <font color="#fff36d">"Забудова"</font></font></i>]]></description>
+</item>
+</items>
